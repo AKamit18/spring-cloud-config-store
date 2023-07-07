@@ -6,7 +6,7 @@ spring:
       server:
         git:
           uri: 
-          search-paths:https://github.com/AKamit18/spring-cloud-config-store
+          search-paths: https://github.com/AKamit18/spring-cloud-config-store
            - '*service'
 
 
